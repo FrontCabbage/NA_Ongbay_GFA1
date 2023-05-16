@@ -1,0 +1,54 @@
+body{
+    margin: 0px;
+}
+header{
+    padding-bottom: 25px;
+    border: 1px solid darkorange;
+}
+.title{
+    text-align: center;
+    color: darkmagenta;
+    font-weight: bold;
+    padding-top: 25px;
+}
+.logo{
+    float: left;
+    max-height: 100%;
+    width: auto;
+}
+.intro{
+    max-width: 65%;
+    border: 1px solid black;
+    border-radius: 30px;
+    margin: 25px 10px;
+    background-color: darkmagenta;
+    float: left;
+}
+.insight{
+    padding: 5px 10px;
+    color: darkorange;
+    font-size: 24px;
+}
+.login{
+    width: 32%;
+    margin: 25px 10px;
+    border: 1px solid black;
+    border-radius: 30px;
+    background-color: darkorange;
+    float: left;
+}
+.name{
+    color: darkmagenta;
+    font-weight: bold;
+    font-size: 50px;
+}
+.fname, .lname, .email, .contact{
+    width: 95%;
+    margin: 5px;
+    height: 40px;
+    padding: 5px 8px;
+    border-radius: 20px;
+}
+.reset, .submit{
+    margin-left: 20px;
+}
